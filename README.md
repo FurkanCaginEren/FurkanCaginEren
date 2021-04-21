@@ -1,6 +1,4 @@
 
-<img src="https://user-images.githubusercontent.com/75935753/114466250-e61c4200-9bf0-11eb-9aab-2804d9444417.gif " width="1000" height="400">
-<br>
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=yigitarpacioglu.visitor-badge) 
