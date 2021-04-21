@@ -1,9 +1,9 @@
 
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yigitarpacioglu.visitor-badge) 
-<img src="https://img.shields.io/github/stars/yigitarpacioglu?color=orange&label=Stars">
-<img src="https://img.shields.io/github/followers/yigitarpacioglu?color=success&label=Followers">
+![visitors](https://visitor-badge.glitch.me/badge?page_id=FurkanCaginEren.visitor-badge) 
+<img src="https://img.shields.io/github/stars/FurkanCaginEren?color=orange&label=Stars">
+<img src="https://img.shields.io/github/followers/FurkanCaginEren?color=success&label=Followers">
 
 
 
