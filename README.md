@@ -25,7 +25,7 @@ I'm Çağın! I have found my self in web development.
 
 [![React Badge](https://img.shields.io/badge/-React-DD0031?style=for-the-badge&labelColor=black&logo=React&logoColor=DD0031)](#)
 [![Html Badge](https://img.shields.io/badge/-Microsoft_SQL_Server-CC2927?style=for-the-badge&labelColor=black&logo=Microsoft-SQL-Server&logoColor=CC2927)](#)
-[![Python Badge](https://img.shields.io/badge/-Python-CC2927?style=for-the-badge&labelColor=black&logo=Python&logoColor=green)](#)
+[![Python Badge](https://img.shields.io/badge/-Python-green?style=for-the-badge&labelColor=black&logo=Python&logoColor=green)](#)
 <br>
 
 [![Html Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)
