@@ -1,7 +1,8 @@
 
-<img src="https://giphy.com/gifs/panicatthedisco-panic-at-the-disco-brendon-urie-6qqfKhOrzNfvDIVzkF" width="1000" height="400">
+<img src="https://giphy.com/embed/6qqfKhOrzNfvDIVzkF" width="1000" height="400">
 <br>
 
+<iframe src="https://giphy.com/embed/6qqfKhOrzNfvDIVzkF" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/panicatthedisco-panic-at-the-disco-brendon-urie-6qqfKhOrzNfvDIVzkF">via GIPHY</a></p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=FurkanCaginEren.visitor-badge) 
 <img src="https://img.shields.io/github/stars/FurkanCaginEren?color=orange&label=Stars">
