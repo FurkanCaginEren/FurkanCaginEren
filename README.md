@@ -23,7 +23,7 @@ I'm Çağın! I have found my self in web development.
 ## :wrench: Technologies 
 <br>
 
-[![React Badge](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&labelColor=black&logo=Angular&logoColor=DD0031)](#)
+[![React Badge](https://img.shields.io/badge/-React-DD0031?style=for-the-badge&labelColor=black&logo=React&logoColor=DD0031)](#)
 [![Html Badge](https://img.shields.io/badge/-Microsoft_SQL_Server-CC2927?style=for-the-badge&labelColor=black&logo=Microsoft-SQL-Server&logoColor=CC2927)](#)
 <br>
 
