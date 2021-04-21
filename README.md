@@ -23,10 +23,8 @@ I'm Çağın! I have found my self in web development.
 ## :wrench: Technologies 
 <br>
 
-[![Html Badge](https://img.shields.io/badge/-C%23-6A1577?style=for-the-badge&labelColor=black&logo=C-sharp&logoColor=6A1577)](#)
 [![Angular Badge](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&labelColor=black&logo=Angular&logoColor=DD0031)](#)
 [![Html Badge](https://img.shields.io/badge/-Microsoft_SQL_Server-CC2927?style=for-the-badge&labelColor=black&logo=Microsoft-SQL-Server&logoColor=CC2927)](#)
-[![TS Badge](https://img.shields.io/badge/-typescript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)](#)
 <br>
 
 [![Html Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)
