@@ -21,8 +21,7 @@ I'm Çağın! I have found my self in web development.
   
 ## Contact me :mailbox:
 [![Mail Badge](https://img.shields.io/badge/-fcagineren@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:yigit.arpacioglu@gmail.com) <br>
-[![Linkedin Badge](https://img.shields.io/badge/-Furkan Çağın Eren-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fce/) 
-
+[![Linkedin Badge](https://img.shields.io/badge/-YiğitArpacioglu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fce/) 
 ## :wrench: Technologies 
 <br>
 
